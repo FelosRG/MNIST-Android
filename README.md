@@ -9,4 +9,4 @@ Tutorial Save model: https://www.tensorflow.org/tutorials/keras/save_and_load?hl
 
 Tutorial converción a TF-lite : https://www.tensorflow.org/lite/convert/index?hl=es-419
 
-Implementación en Andorid: https://github.com/tensorflow/examples/tree/master/lite/examples/digit_classifier/android
+Implementación en Android: https://github.com/tensorflow/examples/tree/master/lite/examples/digit_classifier/android
