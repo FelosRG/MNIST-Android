@@ -5,4 +5,6 @@ Fuentes:
 
 Modelo en keras: https://keras.io/examples/vision/mnist_convnet/
 
-Tutorial Save model: https://www.youtube.com/watch?v=8Nl-of5C3uA
+Tutorial Save model: https://www.tensorflow.org/tutorials/keras/save_and_load?hl=es-419
+
+Implementación en Andorid: https://github.com/tensorflow/examples/tree/master/lite/examples/digit_classifier/android
